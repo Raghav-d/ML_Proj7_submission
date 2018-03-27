@@ -1,6 +1,7 @@
 # State Farm Distracted Driver Detection - Udacity Machine Learning Capstone Project
 
 Software environments:
+
 • Python 2.7.13 
 • Anaconda 5.1 (64-bit) anaconda command line - 1.6.5
 • Tensorflow 1.2.0
