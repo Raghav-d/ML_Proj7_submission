@@ -7,6 +7,7 @@ Software environments:
 • Tensorflow 1.2.0
 • Keras 2.1.5
 
+
 Dataset can be obtained from: 
 
 -- zipped folder of all (train/test) images
@@ -24,3 +25,7 @@ Outputs of Test dataset:
    -- VGG16_submission.csv
    -- VGG16_submission_2.csv
    -- VGG16_fine_tuned_submission.csv
+
+   Running the software
+     To run the software, navigate to the top level directory and type
+     jupyter notebook detect_driver_behavior.ipynb
